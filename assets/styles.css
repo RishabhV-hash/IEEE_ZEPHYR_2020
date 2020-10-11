@@ -101,7 +101,8 @@ header {
     cursor: pointer;
     transition: all 0.3s ease 0s;
     animation: pulse 1s infinite;
-    padding: 20px 56px;
+    padding: 13px 60px;
+    font-size: 25px;
 }
 
 
