@@ -28,6 +28,7 @@ main {
 }
 
 .btn-primary:hover {
+  border:1px solid#c7264c;
   background-color: #c7264c;
   color: #ecf0f1;
 }
